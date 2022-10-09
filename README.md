@@ -1,5 +1,5 @@
 # NextjsPrismic
-Nextjs linked to Prismic CMS.
+Nextjs linked to Prismic CMS
 
 ## Development info
 
