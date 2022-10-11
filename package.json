@@ -1,6 +1,6 @@
 {
   "name": "nextjs-website",
-  "description": "Sample website built with Next.js using Prismic headless CMS",
+  "description": "Nextjs React Frontend with Prismic CMS Backend",
   "author": "Prismic",
   "dependencies": {
     "@prismicio/client": "^4.0.0",
